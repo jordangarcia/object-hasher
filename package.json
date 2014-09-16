@@ -1,0 +1,22 @@
+{
+  "name": "object-hasher",
+  "version": "0.1.0",
+  "description": "Deterministic JSON hash",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/jordangarcia/object-hasher"
+  },
+  "author": "Jordan Garcia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jordangarcia/object-hasher/issues"
+  },
+  "homepage": "https://github.com/jordangarcia/object-hasher",
+  "dependencies": {
+    "lodash": "^2.4.1"
+  }
+}
